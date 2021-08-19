@@ -94,11 +94,11 @@ h1{
 }
 
 #container{
+    width:100%;
     position: relative;
     z-index:1;
     background:#eee;
-    /* padding:600px 0; */
-    padding: 0px 0;
+    padding:500px 0;
     text-align: center;
 }
 
