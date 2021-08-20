@@ -128,4 +128,13 @@ li {
   font-size: 14px;
 }
 
+#div-head-nav {
+  padding: 30px 4% 10px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  align-items: center;
+}
 Resources1× 0.5× 0.25×Rerun
